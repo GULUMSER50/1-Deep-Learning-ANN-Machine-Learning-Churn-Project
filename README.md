@@ -9,7 +9,9 @@ The metric that is most important in this case is the recall (also known as sens
 Looking at the recall values for the positive class (class 1) in the classification reports, we can see the following:
 
 Random Forest: Recall for class 1 is 0.67.
+
 Logistic Regression: Recall for class 1 is 0.76.
+
 Deep Learning (ANN): Recall for class 1 is 0.76.
 
 Both Logistic Regression and Deep Learning (ANN) models have higher recall values for the positive class compared to the Random Forest model. This indicates that these models are better at identifying churned customers.
