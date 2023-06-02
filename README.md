@@ -1,4 +1,4 @@
-# 2-Deep-Learning-ANN-Machine-Learning-Churn-Project
+# 1-Deep-Learning-ANN-Machine-Learning-Churn-Project
 
 <img width="558" alt="Screenshot 2023-05-15 at 19 48 59" src="https://github.com/GULUMSER50/2-Deep-Learning-ANN-Machine-Learning-Churn-Project/assets/108715553/744d8c56-f709-4926-847b-15448abab57e">
 
